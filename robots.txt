@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://mooyaiphe.tonichaz.com/sitemap.xml
